@@ -1,7 +1,7 @@
 # KEYSIGHT_HD3_noise_performance
 キーサイトから発売されたHD3オシロスコープのノイズ性能を計算するためのデータです｡
 以下の条件で波形を取得しました｡
-・50オームの終端抵抗を接続しています｡ develop
+・50オームの終端抵抗を接続しています｡
 
 ANALOG
 Ch 1 Scale 2.00 mV/, Pos -25.0 uV, Coup DC, BW Limit 1 GHz, Inv Off, Imp 50 Ohm
