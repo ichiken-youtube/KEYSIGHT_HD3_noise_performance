@@ -18,3 +18,5 @@ ACQUISITION
 Mode Normal, Realtime, Vectors On, Persistence Off
 Antialiasing On
 
+
+![image](https://github.com/ichiken-youtube/KEYSIGHT_HD3_noise_performance/blob/706a2477aaf9138c287486f3d1e3879a8ab4224a/scope_0%2050%20terminal2.bmp)
